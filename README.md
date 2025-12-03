@@ -1,0 +1,1 @@
+Dalam project ini, Spring menggunakan konsep Dependency Injection (DI) untuk mengelola objek dan memudahkan pemanggilan service atau class lain tanpa membuat instance secara manual. Sementara itu, AOP (Aspect-Oriented Programming) digunakan untuk menyisipkan fungsi tambahan seperti logging atau validasi tanpa mengubah kode utama.
